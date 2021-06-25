@@ -9,3 +9,5 @@ The constant ShowDashboard.PLANT_ID defines the plant id for which to display th
 ## License
 
 This code is shared under the MIT license - see LICENSE for more details.
+
+Enjoy!
